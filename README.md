@@ -3,6 +3,8 @@ Button box tools
 
 Code to create a simple button box using an arduino board and handling events in python.
 
+![Box](img/box.jpg)
+
 The documentation is minimal, code should speak for itself.
 
 Load the arduino/pooling/pooling.ino in the arduino board of your choice. This code streams input states to the serial port.
@@ -19,4 +21,3 @@ There is several classes:
 
 There is a small example at the end of the python/button.py module.
 
-TODO: add picture
